@@ -3,7 +3,7 @@
       src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Raghu</h1>
   <p align="center">
     <a href="https://github.com/DenverCoder1/readme-typing-svg"><img
-            src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Raghu+Anand,;a+Front-End+Developer,;second+year+Computer+Science+Student;Welcone+to+my+profile&hearts;"></a>
+            src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Raghu+Anand;a+Front-End+Developer+and;second+year+Computer+Science+Student;at+Chandigarh+University;Welcone+to+my+profile..;"></a>
   <h4 align="center">a Front-End Developer and also a second year engineering students at Chandigarh University, see my
     <a href="#" target="_blank">resume</a> for more</h4>
 </div>
