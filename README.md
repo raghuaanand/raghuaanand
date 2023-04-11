@@ -4,7 +4,7 @@
         <a href="https://github.com/DenverCoder1/readme-typing-svg"><img
                 src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=28&center=true&vCenter=true&width=600&height=100&lines=Hello;I'm+Raghu+Anand;a+Front-End+Developer+and;sophomore+at+Chandigarh+University;majoring+in+Computer+Science;Welcome+to+my+profile...;"></a>
     <h4 align="center">You can checkout my
-        <a href="https://raghuaanand.github.io/" target="_blank">resume</a> for more
+        <a href="http://raghuaanand.vercel.app/" target="_blank">portfolio</a> for more
     </h4>
 </div>
 <p align="left">
