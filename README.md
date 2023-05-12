@@ -4,7 +4,7 @@
         <a href="https://github.com/DenverCoder1/readme-typing-svg"><img
                 src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=28&center=true&vCenter=true&width=600&height=100&lines=Hello;I'm+Raghu+Anand;a+Front-End+Developer+and;sophomore+at+Chandigarh+University;majoring+in+Computer+Science;Welcome+to+my+profile...;"></a>
     <h4 align="center">You can checkout my
-        <a href="http://raghuaanand.vercel.app/" target="_blank">portfolio</a> for more
+        <a href="http://raghuanand.live/" target="_blank">portfolio</a> for more
     </h4>
 </div>
 <p align="left">
@@ -20,7 +20,7 @@
 I have been coding from last 2 years. I have learnt different tech stacks in these years. But, It is since last 9 months I have realized that I love creating innovative, user-friendly websites and applications more than anything else. I have profound knowledge of HTML, CSS, JavaScript, Tailwind CSS , and Git.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [raghuanand.co](http://raghuaanand.vercel.app/)
+* 🖥️  See my portfolio at [raghuanand.live](http://raghuanand.live/)
 * ✉️  You can contact me at [raghuaanand@gmail.com](mailto:raghuaanand@gmail.com)
 * 🧠  I'm learning React JS
 * 🤝  I'm open to collaborating on interesting Front-end projects
