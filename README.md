@@ -24,10 +24,15 @@ I'm a 20-year-old Full Stack Developer based in Bihar, India. With over 2 years 
 <p align="left"> <a href="https://twitter.com/raghuaanand" target="blank"><img src="https://img.shields.io/twitter/follow/raghuaanand?logo=twitter&style=for-the-badge" alt="raghuaanand" /></a> </p>
 
 - 📫 How to reach me **raghuaanand@gmail.com**
-
-
 ---
-<br />
+
+  ## 🌱 Current Learning Goals
+
+- Furthering my expertise in Full Stack Development
+- Exploring new programming paradigms and languages
+- Mastering Next.js
+- Solving more DSA
+---
 <h2>Languages and Tools</h2> 
 <p align="left">
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=js"  />
@@ -62,21 +67,12 @@ I'm a 20-year-old Full Stack Developer based in Bihar, India. With over 2 years 
 
 </p>
 
-
+## GitHub Stats
+![Raghu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raghuaanand&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raghuaanand&show_icons=true&locale=en&layout=compact&theme=nightowl#gh-dark-mode-only" alt="raghuaanand" /></p>
 
-
-
-<a href="https://github.com/raghuaanand#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats-git-master-raghuaanand.vercel.app/api?username=raghuaanand&count_private=true&show_icons=true&theme=vue#gh-light-mode-only" alt="raghuaanand" /></a>
-</p> 
-<br>
-<br />
-
 <p><a href="https://github.com/raghuaanand#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-streak-stats-seven-chi.vercel.app?user=raghuaanand&theme=nightowl#gh-dark-mode-only" alt="refresh page if you're not seeing this." /></a>
-<a href="https://github.com/raghuaanand#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-streak-stats-seven-chi.vercel.app?user=raghuaanand&theme=vue#gh-light-mode-only" alt="refresh page if you're not seeing this." /></a></p>
-<br/>
-<br />
-
+  
 <p><a href="https://github.com/raghuaanand#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=raghuaanand&theme=nightowl#gh-dark-mode-only" alt="refresh page if you're not seeing this." /></a>
 <a href="https://github.com/raghuaanand#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=raghuaanand&theme=vue#gh-light-mode-only" alt="refresh page if you're not seeing this." /></a></p>
 <br/>
